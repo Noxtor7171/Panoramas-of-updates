@@ -1,4 +1,4 @@
- Here you can find backgrounds for 1.13🌊- 1.21🎯 (1.20+ for now, but I'm planing make for lower versions). In these backgrounds, I use resource pack [Bare Bones](https://modrinth.com/resourcepack/bare-bones), [Complementary Shaders - Reimagined](https://modrinth.com/shader/complementary-reimagined), [BSL Shaders](https://modrinth.com/shader/bsl-shaders) and [Visual Vibrance](https://modrinth.com/shader/visual-vibrance) with custom settings. Maybe, I'll add panoramas with other shaders (for example, [MakeUp - Ultra Fast](https://modrinth.com/shader/makeup-ultra-fast-shaders) and [Rethinking Voxels](https://modrinth.com/shader/rethinking-voxels)), but I don't promise. 
+Here you can find backgrounds for 1.13🌊- 1.21🎯 (1.20+ for now, but I'm planing make for lower versions). In these backgrounds, I use resource pack [Bare Bones](https://modrinth.com/resourcepack/bare-bones), [Complementary Shaders - Reimagined](https://modrinth.com/shader/complementary-reimagined), [BSL Shaders](https://modrinth.com/shader/bsl-shaders) and [Visual Vibrance](https://modrinth.com/shader/visual-vibrance) with custom settings. Maybe, I'll add panoramas with other shaders (for example, [MakeUp - Ultra Fast](https://modrinth.com/shader/makeup-ultra-fast-shaders) and [Rethinking Voxels](https://modrinth.com/shader/rethinking-voxels)), but I don't promise. 
  
  In the past I'm looking for vanilla backgrounds for my modpack, but I don't find it, so I decided to creating owns. 
 
@@ -26,7 +26,7 @@
 </details>
 
 <details>
-<summary>Background for 1.21.6-1.21.8 (multi-shader versions only with Bare Bones)</summary>
+<summary>Background for 1.21.6-1.21.8 (multi-shader versions only with Bare Bones and Vibrant Visuals Bedrock Port)</summary>
 
 Complementary-Reimagined
 ![Panorama for 1.21.6-1.21.8 (Chase the Skies) with Complementary-Reimagined](https://cdn.modrinth.com/data/SPOBHHTW/images/01a25a9197b25e2a355a74ac5e142ac77c260bca.png)
@@ -37,10 +37,13 @@ BSL Shaders
 Visual Vibrance
 ![Panorama for 1.21.6-1.21.8 (Chase the Skies) with Visual Vibrance](https://cdn.modrinth.com/data/SPOBHHTW/images/c5b740796e1565054f120037cf2574ced20bea78.png)
 
+Vibrant Visuals (Bedrock Port)
+![Panorama for 1.21.6-1.21.8 (Chase the Skies) with Vibrant Visuals (Bedrock Port)](https://cdn.modrinth.com/data/SPOBHHTW/images/02cf8d5e0c422e04091003b4dc221401fd61c250.png)
+
 </details>
 
 <details>
-<summary>Background for 1.21.9-1.21.10 (multi-shader versions Bare Bones and Non-Bare-Bones versions)</summary>
+<summary>Background for 1.21.9-1.21.10 (multi-shader versions Bare Bones, Non-Bare-Bones versions and Vibrant Visuals Bedrock Port)</summary>
 
 Complementary-Reimagined (Non-Bare-Bones)
 ![Panorama for 1.21.9-1.21.10 (Chase the Skies) with Complementary-Reimagined Non-Bare-Bones](https://cdn.modrinth.com/data/SPOBHHTW/images/355e9a7e0d85913d694e63a8aec4670c8ad97c5b.png)
@@ -59,6 +62,9 @@ Visual Vibrance (Non-Bare-Bones)
 
 Visual Vibrance (Bare Bones)
 ![Panorama for 1.21.9-1.21.10 (Chase the Skies) with Visual Vibrance and Bare Bones](https://cdn.modrinth.com/data/SPOBHHTW/images/c2978321cc012800271c44a75e6132dd7128a609.png)
+
+Vibrant Visuals (Bedrock Port)
+![Panorama for 1.21.9-1.21.10 (Chase the Skies) with Vibrant Visuals (Bedrock Port)](https://cdn.modrinth.com/data/SPOBHHTW/images/8a30942ca4044006416eafb20323eff5e3100d09.png)
 
 </details>
 
